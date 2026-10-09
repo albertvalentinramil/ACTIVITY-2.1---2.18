@@ -1,5 +1,5 @@
 // Albert Ramil BSIT NETSEC 1-1
-public class desiderata {
+public class Desiderata {
     public static void main(String[] args) {
 
         System.out.println("Go placidly amid the noise and haste,");
