@@ -1,5 +1,5 @@
 // Albert Ramil BSIT NETSEC 1-1
-public class colors {
+public class Colors {
     public static void main(String[] args) {
 
         // My Favorite Colors
